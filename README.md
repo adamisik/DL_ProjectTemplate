@@ -60,7 +60,7 @@ poetry add <package-name>
 ## Run the entire pipeline
 To run the entire pipeline, type:
 ```bash
-dvc repo
+dvc repro
 ```
 
 ## Version your data
